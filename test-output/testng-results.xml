@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70059" started-at="2020-02-14T08:56:49Z" finished-at="2020-02-14T08:57:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70059" started-at="2020-02-14T08:56:49Z" finished-at="2020-02-14T08:57:59Z">
+      <class name="testCases.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testCases.TC001@523884b2]" name="beforeSuite" is-config="true" duration-ms="11575" started-at="2020-02-14T08:56:38Z" finished-at="2020-02-14T08:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="test()[pri:0, instance:testCases.TC001@523884b2]" name="test" duration-ms="70028" started-at="2020-02-14T08:56:49Z" finished-at="2020-02-14T08:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testCases.TC001@523884b2]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-02-14T08:57:59Z" finished-at="2020-02-14T08:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
